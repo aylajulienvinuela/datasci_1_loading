@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-09-19T05:40:30.462Z",
+  "source_manifest_downloaded_at": "2026-06-11",
+  "source_file": "transactions.csv",
+  "source_sha256": "0be4ef2c5db078b235baa870c326bbf5329c27d5e4b4b5baba5a578c103004d3",
+  "methodology_version": "2.1",
+  "live_extension": {
+    "included": true,
+    "rows_from_neon": 89642,
+    "legacy_cutoff": "2026-02-17"
+  },
+  "row_count": 1364226,
+  "clean_row_count": 1335922,
+  "coverage": {
+    "from": "1975-01-01",
+    "to": "2026-09-14"
+  },
+  "outputs": {
+    "dld_sales_transactions.csv": {
+      "sha256": "0443b6b42ceb68ee827b8228aaefee3a677d7a8f733a3158e5783dc1964709b9"
+    },
+    "dld_sales_transactions.parquet": {
+      "sha256": "336984181fdb9318376ae25cb9e290dae70bb664235a85f530e2e719d93dd7de"
+    }
+  }
+}
